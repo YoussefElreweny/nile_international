@@ -30,7 +30,7 @@ export default function Home() {
             </div>
           </div>
           <img
-            src="/src/assets/images/corporate_hero_bg_1785514967952.jpg"
+            src="/images/corporate_hero_bg_1785514967952.jpg"
             alt="Corporate background"
             className="w-full h-full object-cover opacity-30"
           />
@@ -116,7 +116,7 @@ export default function Home() {
           <FadeIn delay={0.2}>
             <div className="relative group">
               <img
-                src="/src/assets/images/pharma_manufacturing_1785514980266.jpg"
+                src="/images/pharma_manufacturing_1785514980266.jpg"
                 alt="About us"
                 className="rounded-xl shadow-2xl grayscale group-hover:grayscale-0 transition-all duration-700"
               />
@@ -146,8 +146,8 @@ export default function Home() {
             <CompanyCard
               name="A2Z Pharmaceutical Industries"
               description="Market leaders in Human Medicine and Veterinary Medicine manufacturing. Committed to international WHO-GMP standards and export-ready medical solutions."
-              image="/src/assets/images/pharma_manufacturing_1785514980266.jpg"
-              logo="/src/assets/images/A2Z.png"
+              image="/images/pharma_manufacturing_1785514980266.jpg"
+              logo="/images/A2Z.png"
               path="/companies/a2z"
             />
           </FadeIn>
@@ -155,8 +155,8 @@ export default function Home() {
             <CompanyCard
               name="Healthcare Pharmaceutical Industries"
               description="Specialized in healthcare products, food & feed additives, and agricultural pesticides. Dedicated to improving environmental and nutritional quality."
-              image="/src/assets/images/healthcare_products_1785514990044.jpg"
-              logo="/src/assets/images/HealthCare.png"
+              image="/images/healthcare_products_1785514990044.jpg"
+              logo="/images/HealthCare.png"
               path="/companies/healthcare"
             />
           </FadeIn>

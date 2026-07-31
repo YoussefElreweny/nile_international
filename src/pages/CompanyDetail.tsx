@@ -12,8 +12,8 @@ const companyData = {
   a2z: {
     name: 'A2Z Pharmaceutical Industries',
     tagline: 'Leading Manufacturing of Human & Veterinary Medicine',
-    image: '/src/assets/images/pharma_manufacturing_1785514980266.jpg',
-    logo: '/src/assets/images/A2Z.png',
+    image: '/images/pharma_manufacturing_1785514980266.jpg',
+    logo: '/images/A2Z.png',
     overview: 'A2Z Pharmaceutical Industries is a cornerstone of the Nile International group, specializing in the high-volume production of pharmaceuticals. With a state-of-the-art facility, we cater to both human healthcare and veterinary medicine needs.',
     mission: 'To manufacture high-quality, affordable pharmaceuticals that meet international standards of efficacy and safety.',
     capabilities: [
@@ -30,8 +30,8 @@ const companyData = {
   healthcare: {
     name: 'Healthcare Pharmaceutical Industries',
     tagline: 'Excellence in Healthcare, Additives & Agriculture',
-    image: '/src/assets/images/healthcare_products_1785514990044.jpg',
-    logo: '/src/assets/images/HealthCare.png',
+    image: '/images/healthcare_products_1785514990044.jpg',
+    logo: '/images/HealthCare.png',
     overview: 'Healthcare Pharmaceutical Industries focuses on a diverse range of products including healthcare supplies, food and feed additives, and agricultural solutions. We are dedicated to providing essential products that support nutrition and safety.',
     mission: 'To be the preferred provider of healthcare supplies and industrial additives through innovation and reliable quality.',
     capabilities: [

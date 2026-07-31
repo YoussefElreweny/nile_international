@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Company Info */}
           <div className="space-y-6">
             <div className="flex items-center space-x-3">
-              <img src="/src/assets/images/Nile.png" alt="Nile International Logo" className="h-8 w-auto brightness-0 invert" />
+              <img src="/images/Nile.png" alt="Nile International Logo" className="h-8 w-auto brightness-0 invert" />
               <span className="text-white text-xl font-bold tracking-tight">NILE INTERNATIONAL</span>
             </div>
             <p className="text-sm leading-relaxed">

@@ -54,12 +54,12 @@ export default function About() {
           <FadeIn delay={0.2}>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="/src/assets/images/pharma_manufacturing_1785514980266.jpg"
+                src="/images/pharma_manufacturing_1785514980266.jpg"
                 alt="Story 1"
                 className="rounded-xl h-64 w-full object-cover shadow-lg"
               />
               <img
-                src="/src/assets/images/healthcare_products_1785514990044.jpg"
+                src="/images/healthcare_products_1785514990044.jpg"
                 alt="Story 2"
                 className="rounded-xl h-64 w-full object-cover shadow-lg mt-12"
               />

@@ -1,0 +1,23 @@
+{
+  "entities": {
+    "Product": {
+      "title": "Product",
+      "description": "A product offered by the company",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "minLength": 1, "maxLength": 100 },
+        "category": { "type": "string", "minLength": 1, "maxLength": 50 },
+        "description": { "type": "string", "minLength": 1, "maxLength": 1000 },
+        "company": { "type": "string", "minLength": 1, "maxLength": 100 },
+        "image": { "type": "string", "maxLength": 500 }
+      },
+      "required": ["name", "category", "description", "company"]
+    }
+  },
+  "firestore": {
+    "/products/{productId}": {
+      "schema": "Product",
+      "description": "Collection of products"
+    }
+  }
+}

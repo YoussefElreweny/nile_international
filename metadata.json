@@ -1,0 +1,6 @@
+{
+  "name": "Nile International",
+  "description": "Modern corporate website for Nile International for Commercial Agencies, representing A2Z Pharmaceutical and Healthcare Pharmaceutical Industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

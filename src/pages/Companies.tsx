@@ -38,8 +38,8 @@ export default function Companies() {
             <CompanyCard
               name="A2Z Pharmaceutical Industries"
               description="A state-of-the-art manufacturing powerhouse specialized in a wide range of human and veterinary pharmaceuticals. A2Z is the cornerstone of our manufacturing capabilities, focused on innovation and global reach."
-              image="/src/assets/images/pharma_manufacturing_1785514980266.jpg"
-              logo="/src/assets/images/A2Z.png"
+              image="/images/pharma_manufacturing_1785514980266.jpg"
+              logo="/images/A2Z.png"
               path="/companies/a2z"
             />
           </FadeIn>
@@ -47,8 +47,8 @@ export default function Companies() {
             <CompanyCard
               name="Healthcare Pharmaceutical Industries"
               description="Dedicated to the production of high-quality healthcare products, food and feed additives, and agricultural pesticides. Healthcare Industries expands our group's impact into essential industrial and consumer sectors."
-              image="/src/assets/images/healthcare_products_1785514990044.jpg"
-              logo="/src/assets/images/HealthCare.png"
+              image="/images/healthcare_products_1785514990044.jpg"
+              logo="/images/HealthCare.png"
               path="/companies/healthcare"
             />
           </FadeIn>

@@ -71,7 +71,7 @@ export default function Industries() {
           <FadeIn>
             <div className="relative">
               <img
-                src="/src/assets/images/pharma_manufacturing_1785514980266.jpg"
+                src="/images/pharma_manufacturing_1785514980266.jpg"
                 alt="Industry Approach"
                 className="rounded-3xl shadow-2xl"
               />

@@ -146,7 +146,7 @@ export default function Home() {
             <CompanyCard
               name="A2Z Pharmaceutical Industries"
               description="Market leaders in Human Medicine and Veterinary Medicine manufacturing. Committed to international WHO-GMP standards and export-ready medical solutions."
-              image="/../assets/images/pharma_manufacturing_1785514980266.jpg"
+              image="/src/assets/images/pharma_manufacturing_1785514980266.jpg"
               logo="/src/assets/images/A2Z.png"
               path="/companies/a2z"
             />
@@ -155,7 +155,7 @@ export default function Home() {
             <CompanyCard
               name="Healthcare Pharmaceutical Industries"
               description="Specialized in healthcare products, food & feed additives, and agricultural pesticides. Dedicated to improving environmental and nutritional quality."
-              image="/../assets/images/healthcare_products_1785514990044.jpg"
+              image="/src/assets/images/healthcare_products_1785514990044.jpg"
               logo="/src/assets/images/HealthCare.png"
               path="/companies/healthcare"
             />

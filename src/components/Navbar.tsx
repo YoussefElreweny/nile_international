@@ -39,7 +39,7 @@ export default function Navbar() {
     >
       <div className="container mx-auto px-6 md:px-12 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-3 group">
-          <img src="/src/assets/images/Nile.png" alt="Nile International Logo" className="h-10 w-auto transition-transform group-hover:scale-105" />
+          <img src="/images/Nile.png" alt="Nile International Logo" className="h-10 w-auto transition-transform group-hover:scale-105" />
           <span className={`text-xl font-bold tracking-tight ${isScrolled ? 'text-blue-900' : 'text-white'}`}>
             NILE INTERNATIONAL
           </span>
